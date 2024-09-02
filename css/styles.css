@@ -222,7 +222,7 @@ adress a:hover {
 h1 {
   font-size: 56px;
   font-weight: 700;
-  line-height: 1.0714285714285714;
+  line-height: 1.07;
   color: #ffffff;
   letter-spacing: 2%;
   background-color: #2e2f42;
@@ -269,7 +269,7 @@ button :hover {
 .team-class h2 {
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.1111111111111112;
+  line-height: 1.1;
   letter-spacing: 2%;
   color: #2e2f42;
 }
@@ -293,7 +293,7 @@ button :hover {
 .portfolio h2 {
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.1111111111111112;
+  line-height: 1.1;
 
   letter-spacing: 2%;
   color: #2e2f42;
@@ -320,7 +320,7 @@ footer {
 footer a {
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.1666666666666667;
+  line-height: 1.16;
   text-decoration: none;
   letter-spacing: 3%;
   color: #f4f4fd;
