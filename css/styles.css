@@ -102,19 +102,20 @@ button:focus {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.1111111111111112;
-  text-align: left;
+  text-align: center;
+  
   letter-spacing: 2%;
   color: #2e2f42;
 }
 .team-class-list li {
   list-style: none;
   background-color: #ffffff;
-  text-align: left;
+  
 }
 .team-class-list h3 {
   font-size: 20px;
   font-weight: 500;
-  text-align: left;
+  
   letter-spacing: 2%;
   line-height: 1.2;
   color: #2e2f42;
@@ -123,7 +124,7 @@ button:focus {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 2%;
-  text-align: center;
+  
   color: #434455;
 }
 .portfolio h2 {
