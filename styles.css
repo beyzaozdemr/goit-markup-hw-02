@@ -39,10 +39,10 @@ body {
     color: #434455;
     text-decoration: none;
   }
-  adress a:focus {
+  address a:focus{
     color: #404bbf;
   }
-  adress a:hover {
+  address a:hover {
     color: #404bbf;
   }
   h1 {
